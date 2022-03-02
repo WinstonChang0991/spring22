@@ -1,0 +1,142 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background-color:black
+}
+
+.rose1-1{
+padding-left: 22px;  
+ top: 518px;  
+ width: 402px;  
+ height: 490px;  
+}
+.rose1-2{
+padding-left: 55px;  
+	padding-bottom: 55px;
+ top: -48px;  
+ width: 424px;  
+ height: 397px;  
+}
+.rose1-3{
+padding-left: 51px;
+	padding-bottom: 50px;
+ top: 429px;  
+ width: 287px;  
+ height: 500px;  
+}
+.rose1-5{
+padding-left: 50px;  
+ padding-top: 5px;  
+ width: 709px;  
+ height: 387px;  
+}
+
+    
+    .figure {
+        position: relative;
+        width: 709px; 
+		height: 387px;
+        max-width: 100%;
+    }
+    .figure img.hover1 {
+     position: absolute;
+      top: 0;
+      right: 0;
+      left: 0;
+      bottom: 0;
+      object-fit: contain;
+      opacity: 0;
+      transition: opacity .1s;
+    }
+    .figure:hover img.hover1 {
+      opacity: 1;
+    }
+
+
+.rose1-6{
+padding-left: 300px;  
+ top: 770px;  
+ width: 992px;  
+ height: 562px;  
+}
+.rose2-1{
+padding-left: 250px; 
+ width: 424px;  
+ height: 397px;  
+}
+.rose2-2{
+padding-left: 40px;   
+ width: 800px;  
+ height: 250px;  
+}
+ .figure {
+        position: relative;
+        width: 600px; 
+        max-width: 100%;
+    }
+    .figure img.hover2 {
+      position: absolute;
+		padding-left: 600px;
+ width: 600px;  
+ height: 300px; 
+      object-fit: contain;
+      opacity: 0;
+      transition: opacity .1s;
+    }
+    .figure:hover img.hover2 {
+      opacity: 1;
+    }
+.rose2-3{
+padding-left: 200px;
+ top: 50px;  
+ width: 200px;  
+ height: 200px;  
+}
+.rose3-3{
+	width: 700px;  
+ height: 200px
+}
+.figure {
+        position: relative;
+        width: 700px; 
+        max-width: 100%;
+    }
+    .figure img.hover3 {
+      position: absolute;
+		padding-left: 200px;
+ width: 700px;  
+ height: 300px; 
+      object-fit: contain;
+      opacity: 0;
+      transition: opacity .1s;
+    }
+    .figure:hover img.hover3 {
+      opacity: 1;
+    }
+.rose4-2{
+	padding-left:330px;
+}
+.rose4-3{
+	height:800px;
+}
+
+
+.figure {
+        position: relative;
+        width: 600px; 
+        max-width: 100%;
+    }
+    .figure img.hover4 {
+      position: absolute;
+		padding-left: 300px;
+ width: 600px;  
+ height: 300px; 
+      object-fit: contain;
+      opacity: 0;
+      transition: opacity .1s;
+    }
+    .figure:hover img.hover4 {
+      opacity: 1;
+    }
+
+
